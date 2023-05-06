@@ -6,4 +6,4 @@ Hi, I am Liang Zhang, a PhD candidate at Beijing Normal University. I am interes
 
 [![Top Langs](https://github-readme-stats-psychelzh.vercel.app/api/top-langs/?username=psychelzh&layout=compact&hide_border=true&theme=onedark&count_private=true&exclude_repo=github-readme-stats,presentations-g-factor,cogstruct-pub)](https://github.com/anuraghazra/github-readme-stats)
 
-[![My wakatime stats](https://github-readme-stats-psychelzh.vercel.app/api/wakatime?username=psychelzh&layout=compact&hide_border=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![My wakatime stats](https://github-readme-stats-psychelzh.vercel.app/api/wakatime?username=psychelzh&&range=last_7_days&layout=compact&hide_border=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
